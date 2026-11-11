@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://constitution.shareyourgroup.com/sitemap.xml
